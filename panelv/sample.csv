@@ -1,0 +1,319 @@
+LP.,GRUPA,EAN,NAZWA,CENA_NETTO,CENA BRUTTO,SZTUKI,ZAMÓWIENIE,WARTOŚĆ NETTO
+1,SKINCARE & MAKE-UP LUX,686769002068,3LAB_Anti - Aging Eye Lift 15ml,"1149,98","1414,48",9,,0
+2,SKINCARE & MAKE-UP LUX,686769002730,3LAB_Anti - Aging Oil 30ml," 811,76"," 998,46",9,,0
+3,SKINCARE & MAKE-UP LUX,686769001924,3LAB_Anti-Aging Cream 60ml,"1894,10","2329,74",9,,0
+4,SKINCARE & MAKE-UP LUX,686769000736,"3LAB_""h"" Serum Age-Defying Booster Anti Age 30ml"," 662,94"," 815,41",10,,0
+5,SKINCARE & MAKE-UP LUX,686769001023,3LAB_Hydrating - Vita Cream 60ml," 419,41"," 515,87",2,,0
+6,SKINCARE & MAKE-UP LUX,686769000903,"3LAB_""M"" Cream Ultimate Lift 60ml"," 811,76"," 998,46",5,,0
+7,SKINCARE & MAKE-UP LUX,686769002631,"3LAB_""M"" Eye Brightening 15ml"," 676,46"," 832,05",24+,,0
+8,SKINCARE & MAKE-UP LUX,686769002549,"3LAB_""M"" Serum Ageless 30ml"," 744,11"," 915,26",10,,0
+9,SKINCARE & MAKE-UP LUX,686769000781,3LAB_Perfect Balancing Toner 160ml," 230,00"," 282,90",9,,0
+10,SKINCARE & MAKE-UP LUX,686769001139,3LAB_Perfect Body Cream 200ml," 662,94"," 815,41",8,,0
+11,SKINCARE & MAKE-UP LUX,686769001030,"3LAB_Perfect ""C"" Eye Treatment 14ml"," 297,64"," 366,10",3,,0
+12,SKINCARE & MAKE-UP LUX,686769001122,"3LAB_Perfect ""C"" Treatment Serum 30ml"," 392,35"," 482,59",7,,0
+13,SKINCARE & MAKE-UP LUX,686769001085,3LAB_Perfect Cleansing Emulsion 200ml," 162,35"," 199,69",4,,0
+14,SKINCARE & MAKE-UP LUX,686769000828,3LAB_Perfect Cleansing Gel 200ml," 162,35"," 199,69",4,,0
+15,SKINCARE & MAKE-UP LUX,686769000958,3LAB_Perfect Cream Exclusive Complex 60ml," 554,70"," 682,28",10,,0
+16,SKINCARE & MAKE-UP LUX,686769001061,3LAB_Perfect Mask Lifting Firming Brightening 140ml,"432,94","532,51",5,,0
+17,SKINCARE & MAKE-UP LUX,686769001078,3LAB_Perfect Moisturizer 120ml,"324,7","399,38",4,,0
+18,SKINCARE & MAKE-UP LUX,686769000910,3LAB_Perfect Neck Cream 60ml,"432,94","532,51",5,,0
+19,SKINCARE & MAKE-UP LUX,686769001382,3LAB_Super Cream 50ml,"2435,27","2995,38",2,,0
+20,SKINCARE & MAKE-UP LUX,686769000729,3LAB_WW Cream Anti-Wrinkle And Brightening Complex 60ml,"1285,28","1580,9",14,,0
+21,SKINCARE & MAKE-UP LUX,686769002419,3LAB_WW Day SPF40 Broad Spectrum 50ml,"1041,76","1281,36",7,,0
+22,SKINCARE & MAKE-UP LUX,686769000804,3LAB_WW Eye Cream 14ml,"784,7","965,18",12,,0
+23,FRAGRANCES,4011700747450,4711 Acqua Colonia Saffron & Iris EDC spray 170ml,"62,9","77,37",2,,0
+24,FRAGRANCES,4011700747436,4711 Acqua Colonia Saffron & Iris EDC spray 50ml,"46,9","57,69",3,,0
+25,FRAGRANCES,4011700745418,4711 Acqua Colonia White Peach & Coriander BODY LOTION 200ml,"27,9","34,32",2,,0
+26,FRAGRANCES,4011700745364,4711 Acqua Colonia White Peach & Coriander EDC spray 50ml,"46,9","57,69",1,,0
+27,FRAGRANCES,4011700740239,4711 EDC BODY spray glass 60ml,"24,9","30,63",11,,0
+28,FRAGRANCES,4011700740390,4711 EDC spray 60ml,"20,9","25,71",4,,0
+29,FRAGRANCES,4011700740772,4711 EDC spray 90ml,"38,9","47,85",6,,0
+30,FRAGRANCES,4011700744008,4711 Ice EDC flakon 100ml,"33,9","41,7",6,,0
+31,FRAGRANCES,4011700744015,4711 Ice EDC flakon 200ml,"46,9","57,69",7,,0
+32,FRAGRANCES,4011700744022,4711 Ice EDC flakon 400ml,"69,9","85,98",10,,0
+33,FRAGRANCES,4011700747283,4711 Remix Cologne EDC spray 150ml,"46,9","57,69",4,,0
+34,SKINCARE & MAKE UP MASS,5900116043548,AA_Active Anti-Perspirant 24h dezodorant roll-on Green Tea 50ml ,"6,6","8,12",3,,0
+35,SKINCARE & MAKE UP MASS,5900116040905,AA_Aloes Meksykański moc regeneracji krem na dzień 50ml,"16,41","20,18",3,,0
+36,SKINCARE & MAKE UP MASS,5900116030272,AA_Alu Free Deodorant Mineral dezodorant w kulce 50ml,"7,76","9,54",12,,0
+37,SKINCARE & MAKE UP MASS,5900116030289,AA_Alu Free Deodorant Silk dezodorant w kulce 50ml,"7,76","9,54",15,,0
+38,SKINCARE & MAKE UP MASS,5900116023151,AA_Anti-Perspirant Multifunctional Cotton 8in1 Roll-On 50ml ,7,"8,61",2,,0
+39,SKINCARE & MAKE UP MASS,5900116043760,AA_Aquaselin Extreme For Men Anti-Perspirant deo roll-on przeciw nadmiernej potliwości 50ml,"11,6","14,27",3,,0
+40,SKINCARE & MAKE UP MASS,5900116043746,AA_Aquaselin Intensive Women Anti-Perspirant specjalistyczny antyperspirant przeciw zwiększonej potliwości 50ml,"11,6","14,27",3,,0
+41,SKINCARE & MAKE UP MASS,5900116043753,AA_Aquaselin Intensive Women Specialist Anti-Perspirant specjalistyczny antyperspirant przeciw silnej potliwości 50ml,"11,6","14,27",3,,0
+42,SKINCARE & MAKE UP MASS,5900116052830,AA_Aquaselin Podology krem do stóp antyperspirant 50ml,"9,55","11,75",3,,0
+43,SKINCARE & MAKE UP MASS,5900116052854,AA_Aquaselin Podology krem do stóp na pękające pięty 50ml,"9,55","11,75",3,,0
+44,SKINCARE & MAKE UP MASS,5900116052861,AA_Aquaselin Podology krem do stóp ochronny 50ml,"9,55","11,75",3,,0
+45,SKINCARE & MAKE UP MASS,5900116052847,AA_Aquaselin Podology krem do stóp przeciwgrzybiczy 50ml,"12,42","15,28",3,,0
+46,SKINCARE & MAKE UP MASS,5900116043777,AA_Aquaselin Universal Specialist Cream Anti-Perspirant specjalistyczny antyperspirant w kremie przeciw zwiekszonej potliwości 40ml,"11,6","14,27",3,,0
+47,SKINCARE & MAKE UP MASS,5900116050898,AA_Bąbelkowa maska do twarzy energetyzująco-nawilżająca 2x4g,"5,43","6,68",24+,,0
+48,SKINCARE & MAKE UP MASS,5900116051116,AA_Bąbelkowa maska do twarzy nawilżająca 2x4g,"5,51","6,78",24+,,0
+49,SKINCARE & MAKE UP MASS,5900116051123,AA_Bąbelkowa maska do twarzy oczyszczająca 2x4g,"5,5","6,77",24+,,0
+50,SKINCARE & MAKE UP MASS,5900116051109,AA_Bąbelkowa maska do twarzy wygładzająca 2x4g,"5,5","6,77",24+,,0
+51,SKINCARE & MAKE UP MASS,5900116028002,AA_Beauty Bar maska węglowa oczyszczająca 8ml,"2,34","2,88",7,,0
+52,SKINCARE & MAKE UP MASS,5900116057057,AA_Beauty Primer 360 3in1 Makeup Base baza 3w1 Bambus 30ml,"21,24","26,12",3,,0
+53,SKINCARE & MAKE UP MASS,5900116027609,AA_Beauty Primer 360 Anti-Age Skin De-Stress Complex baza wygładzająca 30ml,"22,49","27,66",15,,0
+54,SKINCARE & MAKE UP MASS,5900116027593,AA_Beauty Primer 360 Anti-Redness Skin De-Stress Complex baza redukująca zaczerwienienia 30ml,"22,49","27,66",11,,0
+55,SKINCARE & MAKE UP MASS,5900116029122,AA_Beauty Primer 360° Strobing baza rozświetlająca 30ml,"22,49","27,66",5,,0
+56,SKINCARE & MAKE UP MASS,5900116050393,AA_Bio Natural Vegan Detox Concentrate koncentrat detox Słonecznik 15ml,"27,54","33,87",3,,0
+57,SKINCARE & MAKE UP MASS,5900116051147,AA_Bio Natural Vegan Exfoliating Facial Paste pasta peelingująca do twarzy Śliwka 50ml,"14,25","17,53",3,,0
+58,SKINCARE & MAKE UP MASS,5900116050430,AA_Bio Natural Vegan Eye Contour Cream krem pod oczy i na powieki Dzika Róża 15ml,"12,45","15,31",3,,0
+59,SKINCARE & MAKE UP MASS,5900116051130,AA_Bio Natural Vegan Face Cleansing Gel żel oczyszczający do mycia twarzy Ogórek 150ml,"13,23","16,27",3,,0
+60,SKINCARE & MAKE UP MASS,5900116050386,AA_Bio Natural Vegan Micellar Water woda micelarna do demakijażu oczu i twarzy Winogrono 400ml,"13,31","16,37",3,,0
+61,SKINCARE & MAKE UP MASS,5900116050416,AA_Bio Natural Vegan Soothing Cream krem łagodzący na dzień i na noc Passiflora 50ml,"18,28","22,48",3,,0
+62,SKINCARE & MAKE UP MASS,5900116039169,AA_Carbon & Clay maska oczyszczająca węgiel japoński cera normalna i mieszana 30ml,"9,11","11,2",2,,0
+63,SKINCARE & MAKE UP MASS,5900116039206,AA_Carbon & Clay maska rozświetlająca z glinką czerwoną 30ml,"10,11","12,44",6,,0
+64,SKINCARE & MAKE UP MASS,5900116039145,AA_Carbon & Clay maska z peelingiem do cery tłustej i mieszanej węgiel japoński 30ml,"9,11","11,2",6,,0
+65,SKINCARE & MAKE UP MASS,5900116039213,AA_Carbon & Clay żel do mycia twarzy węgiel japoński każda cera 150ml,"10,22","12,57",11,,0
+66,SKINCARE & MAKE UP MASS,5900116039220,AA_Carbon & Clay żel do mycia twarzy z peeligiem węgiel japoński każda cera 150ml,"10,22","12,57",5,,0
+67,SKINCARE & MAKE UP MASS,5900116028033,AA_Caring Lip Oil Raspberry Extract Avocado Oil upiekszający olejek do ust 6ml,"12,88","15,84",10,,0
+68,SKINCARE & MAKE UP MASS,5900116028040,AA_Caring Lip Oil Wild Berry Extract Avocado Oil upiekszający olejek do ust 6ml,"12,88","15,84",5,,0
+69,SKINCARE & MAKE UP MASS,5900116028828,AA_Cell Block Green Power Anti-Cellulit Lotion wyszczuplająco-ujedrniający balsam antycellulitowy 200ml,"15,33","18,86",7,,0
+70,SKINCARE & MAKE UP MASS,5900116028804,AA_Cell Block Green Power Anti-Cellulite Serum serum antycellulitowe 200ml,"14,99","18,44",8,,0
+71,SKINCARE & MAKE UP MASS,5900116028811,AA_Cell Block Green Power Intense Slimming Concentrate intensywny koncentrat wyszczuplający 200ml,"16,66","20,49",8,,0
+72,SKINCARE & MAKE UP MASS,5900116031354,AA_Cera Dojrzała odżywczy krem przeciwzmarszczkowy 50ml,"11,03","13,57",3,,0
+73,SKINCARE & MAKE UP MASS,5900116028248,AA_Cera Naczynkowa nawilżający krem na dzień 50ml,"14,31","17,6",4,,0
+74,SKINCARE & MAKE UP MASS,5900116028255,AA_Cera Naczynkowa regenerujący krem na noc 50ml,"14,31","17,6",12,,0
+75,SKINCARE & MAKE UP MASS,5900116052687,AA_Cica Benefit balsam odżywczo-kojący do skóry podrażnionej suchej i wrażliwej 200ml,"10,61","13,05",3,,0
+76,SKINCARE & MAKE UP MASS,5900116052663,AA_Cica Benefit kojący płyn micelarny do demakijażu 250ml,"9,65","11,87",3,,0
+77,SKINCARE & MAKE UP MASS,5900116052670,AA_Cica Benefit krem regenerująco-łagodzący do twarzy ciała i rąk 50ml,"17,37","21,37",3,,0
+78,SKINCARE & MAKE UP MASS,5900116052694,AA_Cica Benefit ultra nawilżający żel pod oczy 15ml,"9,65","11,87",3,,0
+79,SKINCARE & MAKE UP MASS,5900116025056,AA_Clinical Lift 50+ Day Cream krem na dzień lifting + redukcja zmarszczek 50ml ,"20,44","25,14",11,,0
+80,SKINCARE & MAKE UP MASS,5900116025094,AA_Clinical Lift 60+ Night Cream krem na noc modelowanie + odżywianie 50ml ,"20,44","25,14",2,,0
+81,SKINCARE & MAKE UP MASS,5900116043524,AA_Comfort Anti-Perspirant 24h dezodorant roll-on Cotton 50ml,"6,6","8,12",3,,0
+82,SKINCARE & MAKE UP MASS,5900116035338,AA_Cosmetics Dermo Estetique maseczka do twarzy 2-etapowa zabieg rozjaśniający 10ml,"3,57","4,39",1,,0
+83,SKINCARE & MAKE UP MASS,5900116035352,AA_Cosmetics Dermo Estetique maseczka na twarz 2-etapowa zastrzyk energii 2x5ml,"3,57","4,39",12,,0
+84,SKINCARE & MAKE UP MASS,5900116033860,AA_Demakijaż Oczu 3w1 płyn micelarny do demakijażu oczu 150ml,"10,22","12,57",3,,0
+85,SKINCARE & MAKE UP MASS,5900116024790,AA_Dermo Technology Antigravitational Lifting Day Cream 65+ modelująco-przeciwzmarszkowy krem na dzień 50ml ,"12,88","15,84",11,,0
+86,SKINCARE & MAKE UP MASS,5900116024806,AA_Dermo Technology Antigravitational Lifting Night Cream 65+ odbudowująco-regenerujący krem na noc 50ml ,"14,31","17,6",8,,0
+87,SKINCARE & MAKE UP MASS,5900116024776,AA_Dermo Technology Collagen Mesh Day Cream 55+ napinający krem na dzień 50ml,"12,88","15,84",4,,0
+88,SKINCARE & MAKE UP MASS,5900116049335,AA_Dream Minerals Hydro Comfort podkład nawilżający 103 Light Beige 30ml,"13,8","16,98",3,,0
+89,SKINCARE & MAKE UP MASS,5900116049342,AA_Dream Minerals Hydro Comfort podkład nawilżający 104 Medium Beige 30ml,"13,8","16,98",3,,0
+90,SKINCARE & MAKE UP MASS,5900116049366,AA_Dream Minerals Hydro Comfort podkład nawilżający 107 Dark Beige 30ml,"13,8","16,98",3,,0
+91,SKINCARE & MAKE UP MASS,5900116049373,AA_Dream Minerals Hydro Comfort podkład nawilżający 109 Caramel 30ml,"13,8","16,98",3,,0
+92,SKINCARE & MAKE UP MASS,5900116049380,AA_Dream Minerals Silky Matt podkład matujący 103 Light Beige 30ml,"13,8","16,98",3,,0
+93,SKINCARE & MAKE UP MASS,5900116049397,AA_Dream Minerals Silky Matt podkład matujący 104 Medium Beige 30ml,"13,8","16,98",3,,0
+94,SKINCARE & MAKE UP MASS,5900116049410,AA_Dream Minerals Silky Matt podkład matujący 107 Dark Beige 30ml,"13,8","16,98",3,,0
+95,SKINCARE & MAKE UP MASS,5900116049427,AA_Dream Minerals Silky Matt podkład matujący 109 Caramel 30ml,"13,8","16,98",3,,0
+96,SKINCARE & MAKE UP MASS,5900116040356,AA_Emoji Anti-Acne maseczka antybakteryjna seboregulująca 30ml,"8,01","9,85",3,,0
+97,SKINCARE & MAKE UP MASS,5900116040387,AA_Emoji Anti-Acne serum antybakteryjne przeciw niedoskonałościom 40ml,"9,28","11,41",3,,0
+98,SKINCARE & MAKE UP MASS,5900116040325,AA_Emoji Anti-Acne tonik antybakteryjny 200ml,"9,94","12,23",3,,0
+99,SKINCARE & MAKE UP MASS,5900116040370,AA_Emoji krem BB+ SPF15 do cery ciemnej 30ml,"10,43","12,83",3,,0
+100,SKINCARE & MAKE UP MASS,5900116040394,AA_Emoji krem matujący na dzień 40ml,"8,31","10,22",3,,0
+101,SKINCARE & MAKE UP MASS,5900116042053,AA_Emoji maseczka nawilżająco-kojąca 8ml,"3,71","4,56",24+,,0
+102,SKINCARE & MAKE UP MASS,5900116040349,AA_Emoji maska węglowa przeciw zaskórnikom 30ml,"10,48","12,89",3,,0
+103,SKINCARE & MAKE UP MASS,5900116042022,AA_Emoji mikrozłuszczający peeling z węglem 150ml,"9,94","12,23",3,,0
+104,SKINCARE & MAKE UP MASS,5900116042039,AA_Emoji nawilżająca woda micelarna 250ml,"9,94","12,23",3,,0
+105,SKINCARE & MAKE UP MASS,5900116055510,AA_Emoji nawilżająco-wygładzający peeling enzymatyczny 75ml,"9,84","12,1",3,,0
+106,SKINCARE & MAKE UP MASS,5900116040332,AA_Emoji żel z węglem przeciw zaskórnikom 150ml,"9,94","12,23",3,,0
+107,SKINCARE & MAKE UP MASS,5900116027630,AA_Ethnic Beauty Himalayan Ritual Body Balm balsam ujędrniająco-rewitalizujący 200ml,"8,94","10,99",9,,0
+108,SKINCARE & MAKE UP MASS,5900116945828,AA_Ethnic Beauty Himalayan Ritual Hand & Nail Cream Mask regenerujący krem-maska do rąk 75ml,"5,58","6,86",2,,0
+109,SKINCARE & MAKE UP MASS,5900116027647,AA_Ethnic Beauty Japanese Ritual Body Balm wygładzająco-odprężający balsam 200ml,"8,94","10,99",8,,0
+110,SKINCARE & MAKE UP MASS,5900116027623,AA_Ethnic Beauty Moroccan Ritual Body Balm balsam odżywiająco-odbudowujący 200ml,"12,26","15,08",6,,0
+111,SKINCARE & MAKE UP MASS,5900116052809,AA_Face & Body Care Cream krem nawilżający Awokado & Kwas Hialuronowy 125ml,"9,46","11,63",3,,0
+112,SKINCARE & MAKE UP MASS,5900116052793,AA_Face & Body Care Cream krem odżywczy Róża & Alantoina 125ml,"9,46","11,63",3,,0
+113,SKINCARE & MAKE UP MASS,5900116052816,AA_Face & Body Care Cream krem regenerujący do twarzy ciała i dłoni Witamina E & D-Pantenol 125ml,"9,46","11,63",3,,0
+114,SKINCARE & MAKE UP MASS,5900116027920,AA_Golden Ceramides Conditioning And Smoothening Eye Contour Cream odżywczy krem wygładzający pod oczy 30ml,"20,44","25,14",3,,0
+115,SKINCARE & MAKE UP MASS,5900116027883,AA_Golden Ceramides Conditioning Anti-Wrinkle Cream odżywczy krem przeciwzmarszczkowy do cery suchej i normalnej 50ml,"27,6","33,95",9,,0
+116,SKINCARE & MAKE UP MASS,5900116027937,AA_Golden Ceramides Rich Rebuilding Cream Mask bogaty krem-maska odbudowująca ze złotem koloidalnym 50ml,"22,36","27,5",3,,0
+117,SKINCARE & MAKE UP MASS,5900116038421,AA_Help balsam opatrunek do ciała dla ekstremalnie suchej skóry 400ml,"13,51","16,62",3,,0
+118,SKINCARE & MAKE UP MASS,5900116039831,AA_Help intensywnie regenerujący dwuetapowy zabieg do stóp 2x5ml,"2,77","3,41",24+,,0
+119,SKINCARE & MAKE UP MASS,5900116038445,AA_Help kojący kompres do ciała S.O.S. 250ml,"6,75","8,3",3,,0
+120,SKINCARE & MAKE UP MASS,5900116053578,AA_Help krem-balsam do rąk do bardzo suchej skóry 275ml,"9,94","12,23",3,,0
+121,SKINCARE & MAKE UP MASS,5900116038438,AA_Help mleczko kompres do ciała do bardzo suchej skóry 400ml,"13,51","16,62",3,,0
+122,SKINCARE & MAKE UP MASS,5900116014470,AA_Help Moisturizing Cream Atopic Skin krem nawilżający do cery atopowej 50ml,"11,77","14,48",22,,0
+123,SKINCARE & MAKE UP MASS,5900116047409,AA_Help nawilżający krem ratunek do rąk 75ml,"6,75","8,3",3,,0
+124,SKINCARE & MAKE UP MASS,5900116038469,AA_Help odżywczy krem kompres do stóp dla ekstremalnie suchej skóry 75ml,"6,75","8,3",3,,0
+125,SKINCARE & MAKE UP MASS,5900116038452,AA_Help odżywczy krem opatrunek do rąk do skóry ekstremalnie suchej 75ml,"6,75","8,3",3,,0
+126,SKINCARE & MAKE UP MASS,5900116047393,AA_Help regenerujący krem ratunek do stóp do suchych i popękanych pięt 75ml,"6,75","8,3",3,,0
+127,SKINCARE & MAKE UP MASS,5900116014487,AA_Help Rich Nourishing Cream Atopic Skin krem półtłusty bezzapachowy do cery atopowej 50ml,"11,77","14,48",11,,0
+128,SKINCARE & MAKE UP MASS,5900116024325,"AA_Hydro Intense Protective Lipstick intensywnie nawilżająca pomadka ochronna Waniliowa 4,2g","4,05","4,98",9,,0
+129,SKINCARE & MAKE UP MASS,5900116049472,AA_Hydro Sorbet Facial Peeling Cleanser peelingująca pasta do oczyszczania twarzy 50ml,"11,71","14,4",3,,0
+130,SKINCARE & MAKE UP MASS,5900116031613,AA_Hydro Sorbet krem multinawilżający dla cery mieszanej i tłustej 50ml,"14,31","17,6",2,,0
+131,SKINCARE & MAKE UP MASS,5900116031606,AA_Hydro Sorbet krem multinawilżający dla cery normalnej 50ml,"10,43","12,83",2,,0
+132,SKINCARE & MAKE UP MASS,5900116056777,AA_Hydro Sorbet łagodzące mleczko do demakijażu do każdego rodzaju cery 200ml,"8,68","10,68",3,,0
+133,SKINCARE & MAKE UP MASS,5900116049441,AA_Hydro Sorbet multinawilżający płyn micelarny do skóry suchej i normalnej 400ml,"12,54","15,43",3,,0
+134,SKINCARE & MAKE UP MASS,5900116056753,AA_Hydro Sorbet nawilżający żel do mycia twarzy do cery suchej i normalnej 150ml,"9,65","11,87",3,,0
+135,SKINCARE & MAKE UP MASS,5900116056760,AA_Hydro Sorbet peelingujący żel do mycia twarzy do cery mieszanej i normalnej 150ml,"9,65","11,87",3,,0
+136,SKINCARE & MAKE UP MASS,5900116049458,AA_Hydro Sorbet seboregulujący płyn micelarny do cery mieszanej i normalnej 400ml,"12,54","15,43",3,,0
+137,SKINCARE & MAKE UP MASS,5900116049465,AA_Hydro Sorbet Soothing Make-Up Remover Milk łagodzące mleczko do demakijażu 250ml,"12,54","15,43",3,,0
+138,SKINCARE & MAKE UP MASS,5900116049434,AA_Hydro Sorbet Tonic Micellar Water tonizująca woda micelarna do cery normalnej 400ml,"12,54","15,43",3,,0
+139,SKINCARE & MAKE UP MASS,5900116056784,AA_Hydro Sorbet tonik seboregulujący do cery mieszanej i normalnej 200ml,"8,68","10,68",3,,0
+140,SKINCARE & MAKE UP MASS,5900116028958,AA_Ideal Tone Foundation podkład do twarzy 103 Light Beige 30ml,"10,91","13,42",1,,0
+141,SKINCARE & MAKE UP MASS,5900116033372,AA_Intymna Baby Girl delikatna emulsja do higieny intymnej 300ml,"10,42","12,82",11,,0
+142,SKINCARE & MAKE UP MASS,5900116025377,AA_Intymna Fresh Feminine Wash hipoalergiczny płyn do higieny intymnej z dozownikiem 300ml,"10,42","12,82",5,,0
+143,SKINCARE & MAKE UP MASS,5900116025476,AA_Intymna Fresh Soothing Intimate Hygiene Wipes odświeżające chusteczki do higieny intymnej 20szt,"5,3","6,52",7,,0
+144,SKINCARE & MAKE UP MASS,5900116028903,AA_Intymna Harmony Med+ specjalistyczna emulsja do higieny intymnej 300ml,"11,54","14,2",2,,0
+145,SKINCARE & MAKE UP MASS,5900116025414,AA_Intymna Help Feminine Wash płyn do higieny intymnej z dozownikiem 300ml,"10,42","12,82",2,,0
+146,SKINCARE & MAKE UP MASS,5900116025490,AA_Intymna Help Soothing Intimate Hygiene Wipes ochronne chusteczki do higieny intymnej 20szt,"5,3","6,52",6,,0
+147,SKINCARE & MAKE UP MASS,5900116053370,AA_Intymna micelarny żel do higieny intymnej kojenie i ochrona Jaśmin 250ml,"9,84","12,1",3,,0
+148,SKINCARE & MAKE UP MASS,5900116053387,AA_Intymna micelarny żel do higieny intymnej nawilżenie i ochrona Aloes 250ml,"9,84","12,1",3,,0
+149,SKINCARE & MAKE UP MASS,5900116025384,AA_Intymna Sensitive emulsja do higieny intymnej 300ml,"10,42","12,82",5,,0
+150,SKINCARE & MAKE UP MASS,5900116053868,AA_Japan Rituals 40+ multi wygładzenie aktywny bio-krem na noc 50ml,"19,31","23,75",3,,0
+151,SKINCARE & MAKE UP MASS,5900116053806,AA_Japan Rituals 40+ stymulacja nawilżenia aktywny bio-krem na dzień 50ml,"19,31","23,75",3,,0
+152,SKINCARE & MAKE UP MASS,5900116053875,AA_Japan Rituals 50+ endo lifting aktywny bio-krem na noc 50ml,"19,31","23,75",3,,0
+153,SKINCARE & MAKE UP MASS,5900116053813,AA_Japan Rituals 50+ stymulacja elastyczności aktywny bio-krem na dzień 50ml,"19,31","23,75",3,,0
+154,SKINCARE & MAKE UP MASS,5900116053882,AA_Japan Rituals 60+ multi regeneracja aktywny bio-krem na noc 50ml,"19,31","23,75",3,,0
+155,SKINCARE & MAKE UP MASS,5900116053820,AA_Japan Rituals 60+ stymulacja gęstości skóry aktywny bio-krem na dzień 50ml,"19,31","23,75",3,,0
+156,SKINCARE & MAKE UP MASS,5900116053844,AA_Japan Rituals 70+ stymulacja odbudowy aktywny bio-krem na dzień 50ml,"19,31","23,75",3,,0
+157,SKINCARE & MAKE UP MASS,5900116053899,AA_Japan Rituals 70+ ultra wzmocnienie bio-krem na noc 50ml,"19,31","23,75",3,,0
+158,SKINCARE & MAKE UP MASS,5900116053837,AA_Japan Rituals multi stymulacja wygładzenia aktywny bio-krem pod oczy 15ml,"13,51","16,62",3,,0
+159,SKINCARE & MAKE UP MASS,5900116055404,AA_Japan Rituals Rytuał Energetyzujący żel pod prysznic 400ml,"10,61","13,05",3,,0
+160,SKINCARE & MAKE UP MASS,5900116054681,AA_Japan Rituals Rytuał Nawilżający hydrobalsam do ciała 400ml,"13,51","16,62",3,,0
+161,SKINCARE & MAKE UP MASS,5900116057446,AA_Japan Rituals Rytuał Nawilżający kremowa maska do twarzy 2x4ml,"2,5","3,08",24+,,0
+162,SKINCARE & MAKE UP MASS,5900116054674,AA_Japan Rituals Rytuał Odżywiający balsam do ciała 400ml,"13,51","16,62",3,,0
+163,SKINCARE & MAKE UP MASS,5900116057439,AA_Japan Rituals Rytuał Regenerujący kremowa maska do twarzy 2x4ml,"2,5","3,08",24+,,0
+164,SKINCARE & MAKE UP MASS,5900116055411,AA_Japan Rituals Rytuał Relaksujący żel pod prysznic 400ml,"10,61","13,05",3,,0
+165,SKINCARE & MAKE UP MASS,5900116057453,AA_Japan Rituals Rytuał Wygładzający kremowa maska do twarzy 2x4ml,"2,51","3,09",24+,,0
+166,SKINCARE & MAKE UP MASS,5900116040967,AA_Konopie Szlachetne moc energii krem na dzień 50ml,"14,48","17,81",3,,0
+167,SKINCARE & MAKE UP MASS,5900116040974,AA_Konopie Szlachetne moc energii krem na noc 50ml,"14,48","17,81",3,,0
+168,SKINCARE & MAKE UP MASS,5900116029085,AA_Long Stay Cover Foundation nawilżający podkład do twarzy 105 Sand 35ml,"20,44","25,14",4,,0
+169,SKINCARE & MAKE UP MASS,5900116030203,AA_Long Stay Cover Foundation nawilżający podkład do twarzy 106 Golden Beige 35ml,"20,44","25,14",1,,0
+170,SKINCARE & MAKE UP MASS,5900116029115,AA_Long Stay Cover Foundation nawilżający podkład do twarzy 111 Coffee 35ml,"13,41","16,49",2,,0
+171,SKINCARE & MAKE UP MASS,5900116023328,AA_Make Up Cover Foundation podkład kryjąco korygujący 109 Carmel 30ml ,"10,91","13,42",12,,0
+172,SKINCARE & MAKE UP MASS,5900116022345,AA_Make Up Filler Wrinkle Decrease Foundation Pro Age System podkład wypełniający zmarszczki 101 Ivory 30ml,"18,14","22,31",19,,0
+173,SKINCARE & MAKE UP MASS,5900116022352,AA_Make Up Filler Wrinkle Decrease Foundation Pro Age System podkład wypełniający zmarszczki 103 Light Beige 30ml,"18,14","22,31",3,,0
+174,SKINCARE & MAKE UP MASS,5900116022369,AA_Make Up Filler Wrinkle Decrease Foundation Pro Age System podkład wypełniający zmarszczki 105 Sand 30ml,"18,14","22,31",9,,0
+175,SKINCARE & MAKE UP MASS,5900116022383,AA_Make Up Filler Wrinkle Decrease Foundation Pro Age System podkład wypełniający zmarszczki 109 Caramel 30ml,"16,33","20,08",2,,0
+176,SKINCARE & MAKE UP MASS,5900116023243,AA_Make Up Lumi Silky Illuminating Foundation jedwabisty podkład rozświetlający 103 Light Beige 30ml,"10,91","13,42",2,,0
+177,SKINCARE & MAKE UP MASS,5900116023274,AA_Make Up Lumi Silky Illuminating Foundation jedwabisty podkład rozświetlający 109 Caramel 30ml,"10,91","13,42",24+,,0
+178,SKINCARE & MAKE UP MASS,5900116027562,AA_Make Up Lumi Silky Illuminating Foundation jedwabisty podkład rozświetlający 111 Coffee 30ml,"9,82","12,08",2,,0
+179,SKINCARE & MAKE UP MASS,5900116023199,AA_Make Up Matt Foundation podkład matująco wygładzający 103 Light Beige 30ml ,"10,91","13,42",3,,0
+180,SKINCARE & MAKE UP MASS,5900116023212,AA_Make Up Matt Foundation podkład matująco wygładzający 107 Dark Beige 30ml ,"10,91","13,42",1,,0
+181,SKINCARE & MAKE UP MASS,5900116022406,AA_Make Up Satin Foundation IQ10 System podkład satynowy do skóry wrażliwej i skłonnej do alergii 103 Light Beige 30ml,"18,15","22,32",9,,0
+182,SKINCARE & MAKE UP MASS,5900116043494,AA_Men Advanced Care 24h Anti-Perspirant Action 50ml,"6,6","8,12",3,,0
+183,SKINCARE & MAKE UP MASS,5900116043500,AA_Men Advanced Care 24h Anti-Perspirant Fresh 50ml,"6,6","8,12",3,,0
+184,SKINCARE & MAKE UP MASS,5900116024691,AA_Men Advanced Care After-Shave Balm balsam po goleniu delikatnego zarostu 100ml ,"15,33","18,86",1,,0
+185,SKINCARE & MAKE UP MASS,5900116025254,AA_Men Advanced Care Face Cream Energy 30+ energizujacy krem do twarzy 50ml,"17,28","21,25",9,,0
+186,SKINCARE & MAKE UP MASS,5900116025278,AA_Men Advanced Care Face Cream Intensive 50+ odbudowujący krem do twarzy 50ml,"17,28","21,25",1,,0
+187,SKINCARE & MAKE UP MASS,5900116025230,AA_Men Advanced Care Face Cream intensywnie nawilżający krem do twarzy 75ml,"13,91","17,11",12,,0
+188,SKINCARE & MAKE UP MASS,5900116027296,AA_Men Advanced Care Face Cream Repair 60+ regenerująco-wzmacniający krem do twarzy 50ml,"17,28","21,25",4,,0
+189,SKINCARE & MAKE UP MASS,5900116025261,AA_Men Advanced Care Face Cream Vital 40+ przeciwzmarszkowy krem do twarzy 50ml,"17,28","21,25",7,,0
+190,SKINCARE & MAKE UP MASS,5900116025285,AA_Men Advanced Care Face Serum Intensive 50+ przeciwstarzeniowe serum do twarzy 50ml,"23,51","28,92",1,,0
+191,SKINCARE & MAKE UP MASS,5900116025339,AA_Men Advanced Care maseczka do twarzy przeciwstarzeniowa każdy rodzaj skóry 12ml ,"3,32","4,08",16,,0
+192,SKINCARE & MAKE UP MASS,5900116025315,AA_Men Advanced Care Mattifying Face Wash matujący żel do mycia twarzy 150ml,"12,26","15,08",8,,0
+193,SKINCARE & MAKE UP MASS,5900116025346,AA_Men Advanced Care Refreshing Intimate Hygiene Gel odświeżający żel do higieny intymnej 250ml,"10,22","12,57",24,,0
+194,SKINCARE & MAKE UP MASS,5900116050737,AA_Men Advanced Care Shower Gel 3in1 żel pod prysznic 3w1 Action 400ml,"9,17","11,28",3,,0
+195,SKINCARE & MAKE UP MASS,5900116050744,AA_Men Advanced Care Shower Gel 3in1 żel pod prysznic 3w1 Fresh 400ml,"9,17","11,28",3,,0
+196,SKINCARE & MAKE UP MASS,5900116025995,AA_Men Advanced Care Tough Beard Shaving Gel żel do golenia 200ml,"8,98","11,05",1,,0
+197,SKINCARE & MAKE UP MASS,5900116043517,AA_Men Anti-Perspirant 24h dezodorant roll-on Sensitive 50ml,"6,6","8,12",3,,0
+198,SKINCARE & MAKE UP MASS,5900116054407,AA_Men Carbon Care Charcoal Face Scrub peeling do mycia twarzy z węglem 150ml,"11,58","14,24",3,,0
+199,SKINCARE & MAKE UP MASS,5900116054391,AA_Men Carbon Care Charcoal Face Wash żel do mycia twarzy z węglem 150ml,"11,58","14,24",3,,0
+200,SKINCARE & MAKE UP MASS,5900116054414,AA_Men Carbon Care maska oczyszczająca z węglem 30ml,"11,58","14,24",3,,0
+201,SKINCARE & MAKE UP MASS,5900116036991,AA_Men Dr Med After Shave Balm kojący balsam po goleniu 100ml,"18,4","22,63",1,,0
+202,SKINCARE & MAKE UP MASS,5900116036960,AA_Men Dr Med Face Cream Anti-Redness krem do twarzy na zaczerwienienia 50ml,"23,51","28,92",17,,0
+203,SKINCARE & MAKE UP MASS,5900116036977,AA_Men Dr Med Face Cream nawilżający krem do twarzy 50ml,"21,16","26,03",2,,0
+204,SKINCARE & MAKE UP MASS,5900116020310,AA_Men Sensitive After-Shave Balm nawilżający balsam po doleniu do skóry bardzo wrażliwej 100ml ,"15,33","18,86",6,,0
+205,SKINCARE & MAKE UP MASS,5900116024677,AA_Men Sensitive Cooling After Shave Gel chłodzący żel po goleniu do skóry bardzo wrażliwej 100ml,"13,8","16,97",2,,0
+206,SKINCARE & MAKE UP MASS,5900116024721,AA_Men Sensitive Moisturizing After-Shave Lotion nawilżająca woda po goleniu 100ml,"14,72","18,1",2,,0
+207,SKINCARE & MAKE UP MASS,5900116020341,AA_Men Sensitive Moisturizing Intimate Hygiene Gel żel do higieny intymnej 200ml,"10,45","12,85",24+,,0
+208,SKINCARE & MAKE UP MASS,5900116020167,AA_Men Sensitive Moisturizing Shaving Foam nawilżająca pianka do golenia do skóry bardzo wrażliwej 250ml ,"8,69","10,69",14,,0
+209,SKINCARE & MAKE UP MASS,5900116020150,AA_Men Sensitive Moisturizing Shaving Gel nawilżający żel do golenia do skóry bardzo wrażliwej 200ml ,"9,97","12,26",8,,0
+210,SKINCARE & MAKE UP MASS,5900116050751,AA_Men Sensitive Shower Gel 3in1 żel pod prysznic 3w1 Comfort 400ml,"9,17","11,28",3,,0
+211,SKINCARE & MAKE UP MASS,5900116028941,"AA_Men Universal Cream krem uniwerslany do twarzy, dłoni oraz ciała 125ml ","10,22","12,57",6,,0
+212,SKINCARE & MAKE UP MASS,5900116040912,AA_Moc Regeneracji odbudowa & nawilżenie krem na noc Aloes Meksykański 50ml,"16,41","20,18",3,,0
+213,SKINCARE & MAKE UP MASS,5900116040929,AA_Moc Wygładzenia intensywne wygładzenie & nawilżenie krem na dzień Alga Czerwona 50ml,"14,48","17,81",3,,0
+214,SKINCARE & MAKE UP MASS,5900116040936,AA_Moc Wygładzenia ujędrnienie & nawilżenie krem na noc Alga Czerwona 50ml,"14,48","17,81",3,,0
+215,SKINCARE & MAKE UP MASS,5900116026534,AA_Multi Maska maseczka na twarz nawilżanie+odżywianie 2x5ml,"2,28","2,8",10,,0
+216,SKINCARE & MAKE UP MASS,5900116026473,AA_Multi Maska maseczka na twarz oczyszczanie porów+ kontrola sebum 2x5ml,"3,46","4,26",24+,,0
+217,SKINCARE & MAKE UP MASS,5900116024332,"AA_Multi Vitamin Protective Lipstick ochronna pomadka do ust Czerwone Owoce 4,8g","5,07","6,23",1,,0
+218,SKINCARE & MAKE UP MASS,5900116049564,AA_Natural Spa Hand Cream nawilżająco-pielęgnacyjny krem do rąk i paznokci Zielona Herbata 50ml,"5,99","7,37",3,,0
+219,SKINCARE & MAKE UP MASS,5900116049571,AA_Natural Spa Hand Cream odżywczo-ochronny krem do rąk i paznokci Róża Japońska 50ml,"5,99","7,37",3,,0
+220,SKINCARE & MAKE UP MASS,5900116049588,AA_Natural Spa Hand Cream przeciwzmarszczkowy krem do rąk i paznokci Baobab 50ml,"5,99","7,37",3,,0
+221,SKINCARE & MAKE UP MASS,5900116049557,AA_Natural Spa Hand Cream regenerujący krem do rąk i paznokci Bambus 50ml,"5,99","7,37",3,,0
+222,SKINCARE & MAKE UP MASS,5900116043531,AA_No Stress Cashmere Anti-Perspirant 24h dezodorant roll-on Aloes 50ml,"6,6","8,12",3,,0
+223,SKINCARE & MAKE UP MASS,5900116028217,AA_Novaskin Active Facial Cleansing Gel aktywny żel do mycia twarzy oczyszczenie + wygładzenie do skóry wrażliwej i skłonnej do alergii 150ml,"10,22","12,57",13,,0
+224,SKINCARE & MAKE UP MASS,5900116028132,AA_Novaskin Night Cream 40+ krem na noc wygładzenie + regeneracja do skóry wrazliwej skłonnej do alergii 50ml ,"16,56","20,37",1,,0
+225,SKINCARE & MAKE UP MASS,5900116028163,AA_Novaskin Night Cream 50+ krem na noc ujędrnianie + odbudowa do skóry wrazliwej i skłonnej do alergii 50ml,"18,4","22,63",2,,0
+226,SKINCARE & MAKE UP MASS,5900116027500,AA_Nude Sensititive Foundation podkład do skóry wrażliwej i skłonnej do alergii 01 Cream 30ml,"20,44","25,14",3,,0
+227,SKINCARE & MAKE UP MASS,5900116027517,AA_Nude Sensititive Foundation podkład do skóry wrażliwej i skłonnej do alergii 02 Blondie 30ml,"18,4","22,63",3,,0
+228,SKINCARE & MAKE UP MASS,5900116022161,AA_Oil Essence 5w1 balsam do golenia 250ml,"12,26","15,08",3,,0
+229,SKINCARE & MAKE UP MASS,5900116025551,AA_Oil Essence dwuetapowy zabieg na stopy 2x5ml,"3,06","3,76",11,,0
+230,SKINCARE & MAKE UP MASS,5900116022994,AA_Oil Essence Multi-Care Body Lotion multi balsam do ciała do skóry bardzo suchej 400ml ,"12,57","15,46",18,,0
+231,SKINCARE & MAKE UP MASS,5900116025605,AA_Oil Essence Multi-Care Body Lotion multi balsam do ciała do skóry suchej skłonnej do podrażnień 400ml ,"12,57","15,46",10,,0
+232,SKINCARE & MAKE UP MASS,5900116022871,AA_Oil Infusion Argan Inca Inchi Oil 50+ Eye Cream krem pod oczy totalna regeneracja + elastyczność 15ml,"14,31","17,6",4,,0
+233,SKINCARE & MAKE UP MASS,5900116022819,AA_Oil Infusion Argan Marula Oil Q10 30+ Eye Cream krem pod oczy nawilżenie + redukcja zmarszczek 15ml,"14,31","17,6",15,,0
+234,SKINCARE & MAKE UP MASS,5900116022802,AA_Oil Infusion Argan Marula Oil Q10 30+ Night Cream krem na noc odżywienie + wygładzenie zmarszczek 50ml ,"20,44","25,14",17,,0
+235,SKINCARE & MAKE UP MASS,5900116022840,AA_Oil Infusion Argan Tsubaki Oil 40+ Eye Cream krem pod oczy redukcja zmarszczek + odżywienie 15ml ,"14,31","17,6",8,,0
+236,SKINCARE & MAKE UP MASS,5900116023366,AA_Oil Infusion Avocado Babassu Oil Peeling Gel For Washing Face żel peelingujący do mycia twarzy 150ml,"10,22","12,57",5,,0
+237,SKINCARE & MAKE UP MASS,5900116029047,AA_Perfection Matt & Collagen matujący podkład do twarzy 107 Dark Beige 35ml,"14,9","18,33",1,,0
+238,SKINCARE & MAKE UP MASS,5900116029061,AA_Perfection Matt & Collagen matujący podkład do twarzy 111 Coffee 35ml,"13,41","16,49",1,,0
+239,SKINCARE & MAKE UP MASS,5900116051451,AA_Reveal Youth Antioxidant Day Cream SPF20 krem antyoksydacyjny na dzień 50ml,"27,91","34,33",3,,0
+240,SKINCARE & MAKE UP MASS,5900116051475,AA_Reveal Youth Lifting & Modeling Treatment kuracja modelująca owal twarzy 15ml,"28,88","35,52",3,,0
+241,SKINCARE & MAKE UP MASS,5900116051499,AA_Reveal Youth Redness Relief Treatment kuracja łagodząca zaczerwienienia 15ml,"28,88","35,52",3,,0
+242,SKINCARE & MAKE UP MASS,5900116051482,AA_Reveal Youth Skin Reflection Treatment kuracja rozświetlająca 15ml,"28,88","35,52",3,,0
+243,SKINCARE & MAKE UP MASS,5900116051468,AA_Reveal Youth Wrinkle Filling Treatment kuracja wypełniająca zmarszczki 15ml,"28,88","35,52",3,,0
+244,SKINCARE & MAKE UP MASS,5900116040943,AA_Róża Japońska moc liftingu krem na dzień 50ml,"16,41","20,18",3,,0
+245,SKINCARE & MAKE UP MASS,5900116040950,AA_Róża Japońska moc liftingu krem na noc 50ml,"16,41","20,18",3,,0
+246,SKINCARE & MAKE UP MASS,5900116049922,AA_Sensi Skin 3D Lash Maximizer Conditioner & Primer odżywka do rzęs 8ml,"14,95","18,39",3,,0
+247,SKINCARE & MAKE UP MASS,5900116048710,AA_Sensi Skin 3in1 Face Contouring Set set modelujący do twarzy 3w19g,"19,28","23,71",3,,0
+248,SKINCARE & MAKE UP MASS,5900116048543,AA_Sensi Skin Biotin Lift Volume Mascara pogrubiający tusz do rzęs Black 8ml,"17,01","20,92",3,,0
+249,SKINCARE & MAKE UP MASS,5900116048178,"AA_Sensi Skin Brow Designer Eyebrow Wax & Highlighter Duo Set koloryzujący wosk do brwi i rozświetlacz pod łuk brwiowy 10 Brown 2,2g","18,28","22,49",3,,0
+250,SKINCARE & MAKE UP MASS,5900116048185,"AA_Sensi Skin Brow Designer Eyebrow Wax & Highlighter Duo Set koloryzujący wosk do brwi i rozświetlacz pod łuk brwiowy 11 Natural Grey 2,2g","18,28","22,49",3,,0
+251,SKINCARE & MAKE UP MASS,5900116048192,"AA_Sensi Skin Brow Designer Eyebrow Wax & Highlighter Duo Set koloryzujący wosk do brwi i rozświetlacz pod łuk brwiowy 12 Brown Grey 2,2g","18,28","22,49",3,,0
+252,SKINCARE & MAKE UP MASS,5900116048208,"AA_Sensi Skin Brow Designer Eyebrow Wax & Highlighter Duo Set koloryzujący wosk do brwi i rozświetlacz pod łuk brwiowy 13 Blond 2,2g","18,28","22,49",3,,0
+253,SKINCARE & MAKE UP MASS,5900116048239,AA_Sensi Skin Brow Pomade pomada do brwi 01 Blond 5g,"16,34","20,1",3,,0
+254,SKINCARE & MAKE UP MASS,5900116048246,AA_Sensi Skin Brow Pomade pomada do brwi 02 Brown 5g,"16,35","20,11",3,,0
+255,SKINCARE & MAKE UP MASS,5900116048215,"AA_Sensi Skin Brow Stylist żel do brwi 01 Brown 5,5ml","13,07","16,07",3,,0
+256,SKINCARE & MAKE UP MASS,5900116048222,"AA_Sensi Skin Brow Stylist żel do brwi 02 Blond 5,5ml","13,07","16,07",3,,0
+257,SKINCARE & MAKE UP MASS,5900116048703,AA_Sensi Skin Golden Dust Highlighter modelujący rozświetlacz do twarzy 01 Golden Dust 9g,"17,34","21,33",3,,0
+258,SKINCARE & MAKE UP MASS,5900116048727,AA_Sensi Skin Holographic Set 3in1 holograficzny zestaw do twarzy 9g,"19,28","23,71",3,,0
+259,SKINCARE & MAKE UP MASS,5900116048529,AA_Sensi Skin Just Curl It Up Mascara podkręcająco-wydłużający tusz do rzęs Black 7g,"19,63","24,15",3,,0
+260,SKINCARE & MAKE UP MASS,5900116048550,AA_Sensi Skin Just Draw A Line Eyeliner eyeliner w płynie Black 3ml,"12,54","15,43",3,,0
+261,SKINCARE & MAKE UP MASS,5900116048512,AA_Sensi Skin Just Volume It Up Mascara tusz do rzęs Black 7g,"19,63","24,15",3,,0
+262,SKINCARE & MAKE UP MASS,5900116048253,AA_Sensi Skin Matt Lipstick Transfer-Proof pomadka matowa 01 Kissproof Angel 7ml,"17,61","21,66",3,,0
+263,SKINCARE & MAKE UP MASS,5900116048260,AA_Sensi Skin Matt Lipstick Transfer-Proof pomadka matowa 02 My Sweetmatte 7ml,"17,61","21,66",3,,0
+264,SKINCARE & MAKE UP MASS,5900116048284,AA_Sensi Skin Matt Lipstick Transfer-Proof pomadka matowa 04 Endless Love 7ml,"17,61","21,66",3,,0
+265,SKINCARE & MAKE UP MASS,5900116048291,AA_Sensi Skin Matt Lipstick Transfer-Proof pomadka matowa 05 Seduction Proof 7ml,"17,61","21,66",3,,0
+266,SKINCARE & MAKE UP MASS,5900116048277,AA_Sensi Skin Matt Lipstick Transfer-Proof pomadka matowa 07 Neverending Story 7ml,"17,61","21,66",3,,0
+267,SKINCARE & MAKE UP MASS,5900116048307,AA_Sensi Skin Matt Lipstick Transfer-Proof pomadka matowa 08 Sensual Mood Resistant 7ml,"17,61","21,66",3,,0
+268,SKINCARE & MAKE UP MASS,5900116048734,AA_Sensi Skin Mattifying Powder matujący puder prasowany 01 Transparent 9g,"16,37","20,14",3,,0
+269,SKINCARE & MAKE UP MASS,5900116048741,AA_Sensi Skin Mattifying Powder matujący puder prasowany 02 Nude 9g,"16,37","20,14",3,,0
+270,SKINCARE & MAKE UP MASS,5900116048666,AA_Sensi Skin Modeling & Sparkling Face Bronzer modelujący bronzer do twarzy 01 Amber 9g,"17,34","21,33",3,,0
+271,SKINCARE & MAKE UP MASS,5900116048673,AA_Sensi Skin Modeling & Sparkling Face Bronzer modelujący bronzer do twarzy 02 Macchiato 9g,"17,34","21,33",3,,0
+272,SKINCARE & MAKE UP MASS,5900116048482,AA_Sensi Skin Multi Concealer multifunkcyjny korektor w płynie 01 Bright 6ml,"13,07","16,07",3,,0
+273,SKINCARE & MAKE UP MASS,5900116048499,AA_Sensi Skin Multi Concealer multifunkcyjny korektor w płynie 02 Nude 6ml,"13,07","16,07",3,,0
+274,SKINCARE & MAKE UP MASS,5900116048505,AA_Sensi Skin Multi Concealer multifunkcyjny korektor w płynie 03 Light Cream 6ml,"13,07","16,07",3,,0
+275,SKINCARE & MAKE UP MASS,5900116048437,AA_Sensi Skin Oat Powder owsiany puder do twarzy 8g,"16,37","20,14",3,,0
+276,SKINCARE & MAKE UP MASS,5900116048680,AA_Sensi Skin Powder Blush róż do policzków 01 Fresh Rose 9g,"17,34","21,33",3,,0
+277,SKINCARE & MAKE UP MASS,5900116048697,AA_Sensi Skin Powder Blush róż do policzków 02 Sweet Wine 9g,"17,34","21,33",3,,0
+278,SKINCARE & MAKE UP MASS,5900116048536,AA_Sensi Skin Supra Sensitive Long Mascara tusz do rzęs 8ml,"17,01","20,92",3,,0
+279,SKINCARE & MAKE UP MASS,5900116043555,AA_Sensitive Anti-Perspirant 24h dezodorant roll-on No Perfume 50ml,"6,6","8,12",3,,0
+280,SKINCARE & MAKE UP MASS,5900116024349,"AA_Sun Care Protective Lipstick SPF25 ultraochronna pomadka Migdałowa 4,2g","4,05","4,98",3,,0
+281,SKINCARE & MAKE UP MASS,5900116018966,AA_Technologia Wieku 2 w 1 mleczko do demakijażu 200ml,"10,22","12,57",1,,0
+282,SKINCARE & MAKE UP MASS,5900116019024,AA_Technologia Wieku Soap pielęgnujące mydło do skóry wrażliwej z ekstraktem z rumianku 100g,"2,31","2,84",3,,0
+283,SKINCARE & MAKE UP MASS,5900116017112,AA_Technology Age 30+ Energy Of Youth Day Cream wygładzająco-nawilżający krem na dzień 50ml,"13,16","16,19",16,,0
+284,SKINCARE & MAKE UP MASS,5900116017136,AA_Technology Age 30+ Energy Of Youth Eye Cream nawilzająco-wygładzający krem pod oczy 15ml,"12,62","15,52",11,,0
+285,SKINCARE & MAKE UP MASS,5900116017129,AA_Technology Age 30+ Energy Of Youth Night Cream wygładzająco-odżywczy krem na noc 50ml,"13,16","16,19",14,,0
+286,SKINCARE & MAKE UP MASS,5900116017037,AA_Technology Age 40+ Multi Regeneration Night Cream ujedrniająco-wzmacniający krem na noc 50ml,"18,09","22,25",3,,0
+287,SKINCARE & MAKE UP MASS,5900116016986,AA_Technology Age 50+ Active Lifting Eye Cream przeciwzmarszczkowy krem pod oczy 15ml,"12,62","15,52",12,,0
+288,SKINCARE & MAKE UP MASS,5900116016979,AA_Technology Age 50+ Active Lifting Night Cream liftingująco-regenerujący krem na noc 50ml,"16,28","20,03",2,,0
+289,SKINCARE & MAKE UP MASS,5900116016924,AA_Technology Age 60+ Gold Cure Cream krem napinający kontur oczu i ust 50ml ,"12,62","15,52",6,,0
+290,SKINCARE & MAKE UP MASS,5900116016917,AA_Technology Age 60+ Gold Cure Cream krem ujędrniający szyję i dekolt 50ml ,"18,09","22,25",3,,0
+291,SKINCARE & MAKE UP MASS,5900116016894,AA_Technology Age 60+ Gold Cure Day Cream przeciwzmaszczkowy krem na dzień 50ml ,"18,09","22,25",1,,0
+292,SKINCARE & MAKE UP MASS,5900116016900,AA_Technology Age 60+ Gold Cure Night Cream regenerująco-odbudowujący krem na noc 50ml ,"18,09","22,25",2,,0
+293,SKINCARE & MAKE UP MASS,5900116018980,AA_Technology Age Moisturizing Protective Cream nawilżająco-ochronny krem do każdego rodzaju cery 50ml,"8,69","10,69",4,,0
+294,SKINCARE & MAKE UP MASS,5900116040295,AA_Vegan #Clean seboregulujący płyn micelarny 250ml ,"9,65","11,87",3,,0
+295,SKINCARE & MAKE UP MASS,5900116053356,AA_Vegan #Hydro supernawilżający krem do twarzy 50ml,"15,45",19,3,,0
+296,SKINCARE & MAKE UP MASS,5900116040301,AA_Vegan #Mask maseczka zabieg w 2 etapach 2x5ml,"3,66","4,5",24+,,0
+297,SKINCARE & MAKE UP MASS,5900116040257,AA_Vegan #Matt lekki krem nawilżająco-matujący 40ml,"9,84","12,1",3,,0
+298,SKINCARE & MAKE UP MASS,5900116053363,AA_Vegan #Mist nawilżająco-matująca mgiełka do twarzy 50ml,"12,54","15,43",3,,0
+299,SKINCARE & MAKE UP MASS,5900116039602,AA_Vegan nawilżające mleczko do mycia do skóry suchej Aloes 400ml,"10,42","12,82",3,,0
+300,SKINCARE & MAKE UP MASS,5900116039619,AA_Vegan nawilżający peeling do ciała do skóry suchej Bambus 200ml,"9,89","12,17",3,,0
+301,SKINCARE & MAKE UP MASS,5900116039589,AA_Vegan odżywiające mleczko do mycia do skóry suchej i bardzo suchej Owies 400ml,"10,42","12,82",3,,0
+302,SKINCARE & MAKE UP MASS,5900116039626,AA_Vegan odżywiający peeling do ciała do bardzo suchej skóry Owies 200ml,"9,89","12,17",3,,0
+303,SKINCARE & MAKE UP MASS,5900116053349,AA_Vegan #Peel enzymatyczny peeling do twarzy 75ml,"9,65","11,87",3,,0
+304,SKINCARE & MAKE UP MASS,5900116040264,AA_Vegan #Stop normalizujący krem antytrądzikowy 40ml,"9,84","12,1",3,,0
+305,SKINCARE & MAKE UP MASS,5900116040288,AA_Vegan #Wash oczyszczająco-seboregulujący żel do mycia twarzy 150ml,"9,65","11,87",3,,0
+306,SKINCARE & MAKE UP MASS,5900116039596,AA_Vegan wygładzające mleczko do mycia Ryż 400ml,"10,42","12,82",3,,0
+307,FRAGRANCES,085715163127,ABERCROMBIE&FITCH First Instinct Man EDT spray 50ml,"74,9","92,13",3,,0
+308,NICHE,8028713420078,ACQUA DI PARMA Acqua Nobile Rosa Woman EDT spray 125ml,"336,9","414,39",2,,0
+309,NICHE,8028713570025,ACQUA DI PARMA Blu Mediterraneo Arancia Di Capri Unisex EDT spray 150ml,"269,9","331,98",11,,0
+310,NICHE,8028713570018,ACQUA DI PARMA Blu Mediterraneo Arancia Di Capri Unisex EDT spray 75ml,"194,9","239,73",9,,0
+311,NICHE,8028713573156,ACQUA DI PARMA Blu Mediterraneo Arancia Di Capri Unisex Hand Cream 30ml,"54,9","67,53",1,,0
+312,NICHE,8028713573255,ACQUA DI PARMA Blu Mediterraneo Arancia Di Capri Unisex Lip Balm 15ml,"41,9","51,54",2,,0
+313,NICHE,8028713571107,ACQUA DI PARMA Blu Mediterraneo Arancia Di Capri Unisex SHOWER GEL 200ml,"86,9","106,89",4,,0
+314,NICHE,8028713571145,ACQUA DI PARMA Blu Mediterraneo Arancia Di Capri Unisex SHOWER GEL 200ml,"86,9","106,89",6,,0
+315,NICHE,8028713573163,ACQUA DI PARMA Blu Mediterraneo Bergamotto Di Calabria Hand Cream 30ml,"54,9","67,53",1,,0
+316,NICHE,8028713570100,ACQUA DI PARMA Blu Mediterraneo Bergamotto Di Calabria Unisex EDT spray 150ml,"256,9","315,99",18,,0
+317,NICHE,8028713570094,ACQUA DI PARMA Blu Mediterraneo Bergamotto Di Calabria Unisex EDT spray 75ml,"194,9","239,73",17,,0
+318,NICHE,8028713570162,ACQUA DI PARMA Blu Mediterraneo Cedro Di Taormina EDT spray 75ml,"154,9","190,53",6,,0
