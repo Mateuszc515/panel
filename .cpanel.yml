@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/makeupmania/public_html/sklep/panel
+    - export DEPLOYPATH=/public_html/sklep/panel
     - /bin/cp -r * $DEPLOYPATH
