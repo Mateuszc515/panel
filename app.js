@@ -62,7 +62,7 @@ $(function () {
         }).appendTo('body');
         zmianna++;
 
-        $('<ul/> <input/>', {
+        $('<ul/>', {
           'class': 'interest-list',
           html: items.join('')
         }).appendTo('body');
