@@ -53,11 +53,13 @@ $(function () {
 
         $('<input/>', {
           'class': ` input${zmianna}`,
-
+          'style': `    display: block;
+          float: left;`
         }).appendTo('body');
 
         $('<button/>', {
           'class': `btn btn-success button${zmianna}`,
+          'style': `display: block;`,
           html: "x"
         }).appendTo('body');
         zmianna++;
