@@ -50,12 +50,12 @@ $(function () {
 
         }
         tablica2.length = 0
-        
+
         $('<input/>', {
           'class': ` input${zmianna}`,
-         
+
         }).appendTo('body');
-        
+
         $('<button/>', {
           'class': `btn btn-success button${zmianna}`,
           html: "x"
@@ -64,7 +64,7 @@ $(function () {
 
         $('<ul/>', {
           'class': 'interest-list',
-          html: items.join('')
+          html: items.join('<input/>')
         }).appendTo('body');
 
       },
