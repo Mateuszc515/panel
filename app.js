@@ -54,12 +54,12 @@ $(function () {
         $('<input/>', {
           'class': ` input${zmianna}`,
 
-        }).appendTo('body');
+        }).appendTo('ul');
 
         $('<button/>', {
           'class': `btn btn-success button${zmianna}`,
           html: "x"
-        }).appendTo('body');
+        }).appendTo('ul');
         zmianna++;
 
         $('<ul/>', {
