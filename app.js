@@ -64,7 +64,7 @@ $(function () {
 
         $('<ul/>', {
           'class': 'interest-list',
-          html: items.join('')
+          html: items.join('<input/>')
         }).appendTo('body');
 
       },
